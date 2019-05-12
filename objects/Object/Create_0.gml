@@ -1,0 +1,24 @@
+glyph = " "
+glyph_tile_x = 1;
+glyph_tile_y = 0;
+_layer = 0 
+passable = false
+light_blocking = false
+color = c_white
+luminosity = 0
+light_color = c_white
+fow_memerable = false
+ai = noone
+fighter = noone
+perks = ds_map_create();
+name = "<missing name string>"
+targetable = false
+damage_fx_color = c_white
+always_bright = false;
+turns_taken = 0;
+kills = 0;
+nemesis = false;
+frozen = 0;
+no_mirror = false;
+overdraw = false;
+

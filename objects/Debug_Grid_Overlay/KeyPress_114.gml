@@ -1,0 +1,3 @@
+/// @description DEBUG_GRID_MODE_LIGHT_COLOR
+mode = DEBUG_GRID_MODE_LIGHT_COLOR;
+

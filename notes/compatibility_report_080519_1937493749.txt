@@ -1,0 +1,815 @@
+Converting GML script: ${project_dir}\scripts\actor_next\actor_next.gml
+Converted string - line 17: 'ai_mode' -> "ai_mode"
+Converted string - line 19: 'ai_mode' -> "ai_mode"
+
+Converting GML script: ${project_dir}\scripts\AI_approach_player\AI_approach_player.gml
+Converted description /// @description AI_approach_player(exception_object_index)
+/// @param exception_object_index
+
+Converting GML script: ${project_dir}\scripts\AI_wander_around\AI_wander_around.gml
+Converted description /// @description AI_wander()
+
+Converting GML script: ${project_dir}\scripts\ga_generate_session_id\ga_generate_session_id.gml
+Converted string - line 5: 'a' -> "a"
+Converted string - line 5: 'b' -> "b"
+Converted string - line 5: 'c' -> "c"
+Converted string - line 5: 'd' -> "d"
+Converted string - line 5: 'e' -> "e"
+Converted string - line 5: 'f' -> "f"
+Converted string - line 10: 'a' -> "a"
+Converted string - line 10: 'b' -> "b"
+Converted string - line 10: 'c' -> "c"
+Converted string - line 10: 'd' -> "d"
+Converted string - line 10: 'e' -> "e"
+Converted string - line 10: 'f' -> "f"
+Converted string - line 15: 'a' -> "a"
+Converted string - line 15: 'b' -> "b"
+Converted string - line 15: 'c' -> "c"
+Converted string - line 15: 'd' -> "d"
+Converted string - line 15: 'e' -> "e"
+Converted string - line 15: 'f' -> "f"
+Converted string - line 20: 'a' -> "a"
+Converted string - line 20: 'b' -> "b"
+Converted string - line 20: 'c' -> "c"
+Converted string - line 20: 'd' -> "d"
+Converted string - line 20: 'e' -> "e"
+Converted string - line 20: 'f' -> "f"
+Converted string - line 25: 'a' -> "a"
+Converted string - line 25: 'b' -> "b"
+Converted string - line 25: 'c' -> "c"
+Converted string - line 25: 'd' -> "d"
+Converted string - line 25: 'e' -> "e"
+Converted string - line 25: 'f' -> "f"
+
+Converting GML script: ${project_dir}\scripts\ga_design_event\ga_design_event.gml
+Converted description /// @description ga_design_event(event_id)
+/// @param event_id
+
+Converting GML script: ${project_dir}\scripts\ga_design_value_event\ga_design_value_event.gml
+Converted description /// @description ga_design_value_event(event_id, value);
+/// @param event_id
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\ga_progression_start_event\ga_progression_start_event.gml
+Converted description /// @description ga_progression_start_event(progression_string)
+/// @param progression_string
+
+Converting GML script: ${project_dir}\scripts\condition_get\condition_get.gml
+Converted description /// @description condition_active(condition_object_index)
+/// @param condition_object_index
+
+Converting GML script: ${project_dir}\scripts\log_message\log_message.gml
+Converted description /// @description log_message(msg)
+/// @param msg
+
+Converting GML script: ${project_dir}\scripts\log_history\log_history.gml
+Converted description /// @description log_history(character, color);
+/// @param character
+/// @param  color
+
+Converting GML script: ${project_dir}\scripts\get_menu_text\get_menu_text.gml
+Converted description /// @description get_menu_text(menu)
+/// @param menu
+
+Converting GML script: ${project_dir}\scripts\menu_confirm\menu_confirm.gml
+Converted description /// @description menu_confirm(menu)
+/// @param menu
+
+Converting GML script: ${project_dir}\scripts\menu_cycle\menu_cycle.gml
+Converted description /// @description menu_cycle(menu, value)
+/// @param menu
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\new_menu\new_menu.gml
+Converted description /// @description new_menu(title, text)
+/// @param title
+/// @param  text
+
+Converting GML script: ${project_dir}\scripts\new_menu_item\new_menu_item.gml
+Converted description /// @description new_menu_item(menu, menu_item, text, detail)
+/// @param menu
+/// @param  menu_item
+/// @param  text
+/// @param  detail
+
+Converting GML script: ${project_dir}\scripts\new_perk_menu_item\new_perk_menu_item.gml
+Converted description /// @description new_perk_menu_item(menu, perk)
+/// @param menu
+/// @param  perk
+
+Converting GML script: ${project_dir}\scripts\open_character_sheet\open_character_sheet.gml
+Converted description /// @description open_character_sheet
+
+Converting GML script: ${project_dir}\scripts\open_perk_help_menu_for\open_perk_help_menu_for.gml
+Converted description /// @description open_character_sheet
+
+Converting GML script: ${project_dir}\scripts\open_score_sheet\open_score_sheet.gml
+Converted description /// @description open_score_sheet
+
+Converting GML script: ${project_dir}\scripts\open_game_menu\open_game_menu.gml
+Converted description /// @description open_game_menu()
+
+Converting GML script: ${project_dir}\scripts\open_unstable_exit_menu\open_unstable_exit_menu.gml
+Converted description /// @description open_unstable_exit_menu()
+
+Converting GML script: ${project_dir}\scripts\open_main_menu\open_main_menu.gml
+Converted description /// @description open_main_menu()
+
+Converting GML script: ${project_dir}\scripts\open_help_menu\open_help_menu.gml
+Converted string - line 10: "#\  |  /" -> "#\\  |  /"
+Converted string - line 14: "#/  |  \ " -> "#/  |  \\ "
+Converted string - line 19: "#\  |  /" -> "#\\  |  /"
+Converted string - line 23: "#/  |  \ " -> "#/  |  \\ "
+Converted string - line 30: "#\  |  /" -> "#\\  |  /"
+Converted string - line 34: "#/  |  \ " -> "#/  |  \\ "
+
+Converting GML script: ${project_dir}\scripts\open_highscore_menu\open_highscore_menu.gml
+Converted description /// @description open_highscore_menu([added_player_name, add_default_close_menu_item, added_player_score]);
+/// @param [added_player_name
+/// @param  add_default_close_menu_item
+/// @param  added_player_score]
+
+Converting GML script: ${project_dir}\scripts\open_challenge_menu\open_challenge_menu.gml
+Converted description /// @description open_challenge_menu();
+
+Converting GML script: ${project_dir}\scripts\nemesis_load\nemesis_load.gml
+Converted description /// @description nemesis_load()
+
+Converting GML script: ${project_dir}\scripts\nemesis_save\nemesis_save.gml
+Converted description /// @description nemesis_save()
+
+Converting GML script: ${project_dir}\scripts\perk_exists\perk_exists.gml
+Converted description /// @description perk_exists(object, perk)
+/// @param object
+/// @param  perk
+
+Converting GML script: ${project_dir}\scripts\perk_is_available\perk_is_available.gml
+Converted description /// @description perk_is_available(object, perk)
+/// @param object
+/// @param  perk
+
+Converting GML script: ${project_dir}\scripts\new_perk\new_perk.gml
+Converted description /// @description new_perk(perk, owner)
+/// @param perk
+/// @param  owner
+
+Converting GML script: ${project_dir}\scripts\perk_get\perk_get.gml
+Converted description /// @description perk_get(object, perk)
+/// @param object
+/// @param  perk
+
+Converting GML script: ${project_dir}\scripts\perk_grant\perk_grant.gml
+Converted description /// @description perk_grant(object, perk)
+/// @param object
+/// @param  perk
+
+Converting GML script: ${project_dir}\scripts\fighter_attack\fighter_attack.gml
+Converted description /// @description fighter_attack(attacker, target, ranged, [spread=0, true_damage=0, custom_hit_description="", no_fx=false])
+/// @param attacker
+/// @param  target
+/// @param  ranged
+/// @param  [spread=0
+/// @param  true_damage=0
+/// @param  custom_hit_description=""
+/// @param  no_fx=false]
+
+Converting GML script: ${project_dir}\scripts\create_floating_text_fx\create_floating_text_fx.gml
+Converted description /// @description create_floating_text_fx(x,y, text, color)
+/// @param x
+/// @param y
+/// @param  text
+/// @param  color
+
+Converting GML script: ${project_dir}\scripts\create_death_fx\create_death_fx.gml
+Converted description /// @description create_floating_text_fx(x,y)
+/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\create_ranged_fx\create_ranged_fx.gml
+Converted description /// @description create_ranged_fx(attacker, target, offset)
+/// @param attacker
+/// @param  target
+/// @param  offset
+
+Converting GML script: ${project_dir}\scripts\get_range_penalty\get_range_penalty.gml
+Converted description /// @description get_range_penalty(attacker, target)
+/// @param attacker
+/// @param  target
+
+Converting GML script: ${project_dir}\scripts\fighter_turn_tick\fighter_turn_tick.gml
+Converted description /// @description fighter_turn_tick(fighter)
+/// @param fighter
+
+Converting GML script: ${project_dir}\scripts\get_cover\get_cover.gml
+Converted description /// @description get_cover(source_obj, target_obj)
+/// @param source_obj
+/// @param  target_obj
+
+Converting GML script: ${project_dir}\scripts\goto_next_level\goto_next_level.gml
+Converted description /// @description goto_next_level()
+
+Converting GML script: ${project_dir}\scripts\is_fightable\is_fightable.gml
+Converted description /// @description is_fightable(xx, yy)
+/// @param xx
+/// @param  yy
+
+Converting GML script: ${project_dir}\scripts\is_passable\is_passable.gml
+Converted description /// @description is_passable(xx, yy)
+/// @param xx
+/// @param  yy
+
+Converting GML script: ${project_dir}\scripts\is_possibly_passable\is_possibly_passable.gml
+Converted description /// @description is_passable(xx, yy)
+/// @param xx
+/// @param  yy
+
+Converting GML script: ${project_dir}\scripts\is_passable_except\is_passable_except.gml
+Converted description /// @description is_passable(xx, yy, except_type)
+/// @param xx
+/// @param  yy
+/// @param  except_type
+
+Converting GML script: ${project_dir}\scripts\is_useable\is_useable.gml
+Converted description /// @description is_usable(xx, yy);
+/// @param xx
+/// @param  yy
+
+Converting GML script: ${project_dir}\scripts\is_visible_quick\is_visible_quick.gml
+Converted description /// @description is_visible_quick(obj_looker, obj_looked_at)
+/// @param obj_looker
+/// @param  obj_looked_at
+
+Converting GML script: ${project_dir}\scripts\is_visible_quick_pre_screened\is_visible_quick_pre_screened.gml
+Converted description /// @description is_visible_quick_pre_screened(xx,yy,xx2,yy2)
+/// @param xx
+/// @param yy
+/// @param xx2
+/// @param yy2
+
+Converting GML script: ${project_dir}\scripts\simulation_update_state_grid\simulation_update_state_grid.gml
+Converted string - line 111: 'l' -> "l"
+
+Converting GML script: ${project_dir}\scripts\target_cycle\target_cycle.gml
+Converted description /// @description target_cycle(cycle_count)
+/// @param cycle_count
+
+Converting GML script: ${project_dir}\scripts\update_light_grid\update_light_grid.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description update_light_grid(left, top, right, bottom)
+/// @param left
+/// @param  top
+/// @param  right
+/// @param  bottom
+
+Converting GML script: ${project_dir}\scripts\update_visibility_grid_for\update_visibility_grid_for.gml
+Converted description /// @description update_visibility_gird_for(looker_object)
+/// @param looker_object
+
+Converting GML script: ${project_dir}\scripts\true_distance\true_distance.gml
+Converted description /// @description true_distance(ida,idb)
+/// @param ida
+/// @param idb
+
+Converting GML script: ${project_dir}\scripts\component\component.gml
+Converted description /// @description component(type, owner)
+/// @param type
+/// @param  owner
+
+Converting GML script: ${project_dir}\scripts\make_hud_bar\make_hud_bar.gml
+Converted description /// @description make_hud_bar(label, pips, bar_size, additional_info)
+/// @param label
+/// @param  pips
+/// @param  bar_size
+/// @param  additional_info
+
+Converting GML script: ${project_dir}\scripts\out_of_range_by\out_of_range_by.gml
+Converted description /// @description out_of_range_by(min,max,value)
+/// @param min
+/// @param max
+/// @param value
+
+Converting GML script: ${project_dir}\scripts\draw_bezier\draw_bezier.gml
+Converted description /// @description draw_bezier(x1,y1,x2,y2,x3,y3,x4,y4, line_smoothness, line_thickness, color_start, color_end)
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param x3
+/// @param y3
+/// @param x4
+/// @param y4
+/// @param  line_smoothness
+/// @param  line_thickness
+/// @param  color_start
+/// @param  color_end
+
+Converting GML script: ${project_dir}\scripts\find_instance_in_rectangle\find_instance_in_rectangle.gml
+Converted description /// @description find_instance_in_rectangle(object_index, x1,y1,x2,y2)
+/// @param object_index
+/// @param  x1
+/// @param y1
+/// @param x2
+/// @param y2
+
+Converting GML script: ${project_dir}\scripts\distance\distance.gml
+Converted description /// @description distance(ida, idb)
+/// @param ida
+/// @param  idb
+
+Converting GML script: ${project_dir}\scripts\color_add_noise\color_add_noise.gml
+Converted description /// @description color_add_noise(color, noise)
+/// @param color
+/// @param  noise
+
+Converting GML script: ${project_dir}\scripts\check_key_repeat\check_key_repeat.gml
+Converted description /// @description check_key_repeat(delay, repeat, value);
+/// @param delay
+/// @param  repeat
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\color_get_hue_offset\color_get_hue_offset.gml
+Converted description /// @description color_get_hue_offset(input_color, hue_offset);
+/// @param input_color
+/// @param  hue_offset
+
+Converting GML script: ${project_dir}\scripts\color_get_analogous_a\color_get_analogous_a.gml
+Converted description /// @description color_get_analogous_a(input_color)
+/// @param input_color
+
+Converting GML script: ${project_dir}\scripts\color_get_analogous_b\color_get_analogous_b.gml
+Converted description /// @description color_get_analogous_b(input_color)
+/// @param input_color
+
+Converting GML script: ${project_dir}\scripts\draw_status_indicator\draw_status_indicator.gml
+Converted description /// @description draw_status_indicator(x, y, text, color);
+/// @param x
+/// @param  y
+/// @param  text
+/// @param  color
+
+Converting GML script: ${project_dir}\scripts\color_adjust_brightness\color_adjust_brightness.gml
+Converted description /// @description color_adjust_brightness(color, brightness_multiplier);
+/// @param color
+/// @param  brightness_multiplier
+
+Converting GML script: ${project_dir}\scripts\color_set_brightness\color_set_brightness.gml
+Converted description /// @description color_adjust_brightness(color, brightness);
+/// @param color
+/// @param  brightness
+
+Converting GML script: ${project_dir}\scripts\ds_grid_copy_looping\ds_grid_copy_looping.gml
+Converted description /// @description ds_grid_copy_looping(source, target, target_x, target_y, source_origin_x, source_origin_y);
+/// @param source
+/// @param  target
+/// @param  target_x
+/// @param  target_y
+/// @param  source_origin_x
+/// @param  source_origin_y
+
+Converting GML script: ${project_dir}\scripts\instance_choose\instance_choose.gml
+Converted description /// @description instance_choose(object_index)
+/// @param object_index
+
+Converting GML script: ${project_dir}\scripts\lpad\lpad.gml
+Converted description /// @description pad(string, min_width)
+/// @param string
+/// @param  min_width
+
+Converting GML script: ${project_dir}\scripts\rpad\rpad.gml
+Converted description /// @description pad(string, min_width)
+/// @param string
+/// @param  min_width
+
+Converting GML script: ${project_dir}\scripts\paint_cavern_theme\paint_cavern_theme.gml
+Converted string - line 13: '.' -> "."
+
+Converting GML script: ${project_dir}\scripts\paint_swamp_theme\paint_swamp_theme.gml
+Converted string - line 9: '~' -> "~"
+
+Converting GML script: ${project_dir}\scripts\carve_halled_rooms\carve_halled_rooms.gml
+Converted description /// @description carve_halled_rooms(room_max, room_width_min, room_width_max, room_height_min, room_height_max, start_x, start_y)
+/// @param room_max
+/// @param  room_width_min
+/// @param  room_width_max
+/// @param  room_height_min
+/// @param  room_height_max
+/// @param  start_x
+/// @param  start_y
+
+Converting GML script: ${project_dir}\scripts\carve_mesh_rooms\carve_mesh_rooms.gml
+Converted description /// @description carve_mesh_rooms(room_max, room_width_min, room_width_max, room_height_min, room_height_max, start_x, start_y)
+/// @param room_max
+/// @param  room_width_min
+/// @param  room_width_max
+/// @param  room_height_min
+/// @param  room_height_max
+/// @param  start_x
+/// @param  start_y
+
+Converting GML script: ${project_dir}\scripts\carve_old_school_rooms\carve_old_school_rooms.gml
+Converted description /// @description carve_old_school_rooms(room_max, room_width_min, room_width_max, room_height_min, room_height_max, start_x, start_y)
+/// @param room_max
+/// @param  room_width_min
+/// @param  room_width_max
+/// @param  room_height_min
+/// @param  room_height_max
+/// @param  start_x
+/// @param  start_y
+
+Converting GML script: ${project_dir}\scripts\generate_world\generate_world.gml
+Converted description /// @description generate_world(room_max, room_width_min, room_width_max, room_height_min, room_height_max)
+/// @param room_max
+/// @param  room_width_min
+/// @param  room_width_max
+/// @param  room_height_min
+/// @param  room_height_max
+
+Converting GML script: ${project_dir}\scripts\paint_enemies\paint_enemies.gml
+Converted description /// @description paint_enemies(world_level, count);
+/// @param world_level
+/// @param  count
+
+Converting GML script: ${project_dir}\scripts\world_carve_L\world_carve_L.gml
+Converted description /// @description world_carve_L(obj_from, obj_into, x1, y1, x2, y2)
+/// @param obj_from
+/// @param  obj_into
+/// @param  x1
+/// @param  y1
+/// @param  x2
+/// @param  y2
+
+Converting GML script: ${project_dir}\scripts\world_carve_line\world_carve_line.gml
+Converted description /// @description world_carve_line(obj_from, obj_into, x1, y1, x2, y2)
+/// @param obj_from
+/// @param  obj_into
+/// @param  x1
+/// @param  y1
+/// @param  x2
+/// @param  y2
+
+Converting GML script: ${project_dir}\scripts\world_carve_point\world_carve_point.gml
+Converted description /// @description world_carve_point(obj_from, obj_into, x1, y1)
+/// @param obj_from
+/// @param  obj_into
+/// @param  x1
+/// @param  y1
+
+Converting GML script: ${project_dir}\scripts\world_carve_rectangle\world_carve_rectangle.gml
+Converted description /// @description world_carve_rectangle(obj_from, obj_into, x1, y1, x2, y2,[outline=false])
+/// @param obj_from
+/// @param  obj_into
+/// @param  x1
+/// @param  y1
+/// @param  x2
+/// @param  y2
+/// @param [outline=false]
+
+Converting GML script: ${project_dir}\scripts\world_carve_splotch\world_carve_splotch.gml
+Converted description /// @description world_carve_splotch(obj_from, obj_into, center_x, center_y, diamater)
+/// @param obj_from
+/// @param  obj_into
+/// @param  center_x
+/// @param  center_y
+/// @param  diamater
+
+Font Courier_New has been converted to font family Courier New (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\Courier_New\Courier_New.gms1.png
+Font Courier_New_Half has been converted to font family Courier New (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\Courier_New_Half\Courier_New_Half.gms1.png
+Converting GML script: ${project_dir}\objects\Creature\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Sadist\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Saint\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Scholar\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Seeker\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Simple\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Forgotton\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Survivor\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Slayer\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Sinner\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Background_Switch\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Armored\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Aura\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Beserker\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Blood_Secret_Ritual\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Brawler\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Called_Shots\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Chakra\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Clairvoyance\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Darkvision\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Demon_Armor\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Ethereal\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_First_Aid\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Flesh_Guise_Ritual\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Focused\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Fury\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Grace\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Heartseeker\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Holy_Fire\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_HP_Boost\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Inferno_Rounds_Ritual\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Initiative\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Insightfull\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Lifesense\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Magically_Gifted\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Marksman\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Melee_Specialist\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Open_Minded\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Pact_Pistol\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Paradox_Trigger\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Phoenix_Armor\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Radiant_Armor\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Reaper\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Regeneration\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Rifle\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Shadow_Armor\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Shotgun\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Sniper_Rifle\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Solar_Armor\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Stone_Body_Ritual\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Storm_Of_Vengance\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Teleport_Ritual\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Telescape_Pact\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Skill_Pact\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Mindsight_Pact\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Pact_Ritual\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Freezing_Pact\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Tentacle_Whip\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Unobtainable\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Void_Armor\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Volatile_Regeneration_Ritual\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Perk_Wrath\Other_10.gml
+Converted description /// @description EVENT_PERK_GRANTED
+
+Converting GML script: ${project_dir}\objects\Water\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Murk\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Lava\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Grass\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 5: '"' -> "\""
+
+Converting GML script: ${project_dir}\objects\Dirt\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 5: '.' -> "."
+
+Converting GML script: ${project_dir}\objects\Sand\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 5: '.' -> "."
+
+Converting GML script: ${project_dir}\objects\Snow\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 5: '.' -> "."
+
+Converting GML script: ${project_dir}\objects\Exit\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Floor\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Lamp\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Lore_Box\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Muzzle_Flash\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Wall\Create_0.gml
+Converted string - line 2: "\#" -> "\\#"
+
+Converting GML script: ${project_dir}\objects\Teleporter\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Menu_Item_Grant_Perk\Other_10.gml
+Converted description /// @description EVENT_MENU_ITEM_CONFIM
+
+Converting GML script: ${project_dir}\objects\Menu_Item\Other_10.gml
+Converted description /// @description no-op
+
+Converting GML script: ${project_dir}\objects\Object\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Player\Create_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Renderer\Draw_0.gml
+Error: variable '_layer' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 199: '@' -> "@"
+
+Converting GML script: ${project_dir}\objects\Simulation\Step_1.gml
+Converted description /// @description Input
+Converted string - line 11: 'U' -> "U"
+Converted string - line 12: 'M' -> "M"
+Converted string - line 13: 'H' -> "H"
+Converted string - line 14: 'K' -> "K"
+Converted string - line 15: 'I' -> "I"
+Converted string - line 16: 'Y' -> "Y"
+Converted string - line 17: 'N' -> "N"
+Converted string - line 19: 'J' -> "J"
+Converted string - line 23: 'K' -> "K"
+Converted string - line 24: 'J' -> "J"
+Converted string - line 25: 'H' -> "H"
+Converted string - line 26: 'L' -> "L"
+Converted string - line 27: 'U' -> "U"
+Converted string - line 28: 'Y' -> "Y"
+Converted string - line 29: 'B' -> "B"
+Converted string - line 30: 'N' -> "N"
+Converted string - line 31: 'G' -> "G"
+Converted string - line 36: 'H' -> "H"
+Converted string - line 41: 'C' -> "C"
+Converted string - line 42: 'C' -> "C"
+
+Converting GML script: ${project_dir}\objects\Simulation\Step_0.gml
+Converted string - line 188: 'A' -> "A"
+Converted string - line 258: 'D' -> "D"
+Converted string - line 264: 'A' -> "A"
+Converted string - line 269: 'P' -> "P"
+Converted string - line 273: 'F' -> "F"
+Converted string - line 278: 'L' -> "L"
+Converted string - line 282: 'V' -> "V"
+Converted string - line 286: 'T' -> "T"
+
+Converting GML script: ${project_dir}\objects\Analytics\Create_0.gml
+Converted string - line 1: '16813a12f718bc5c620f56944e1abc3ea13ccbac' -> "16813a12f718bc5c620f56944e1abc3ea13ccbac"
+Converted string - line 1: '{"test": "test"}' -> "{\"test\": \"test\"}"
+
+Converting GML script: ${project_dir}\objects\Analytics\Alarm_0.gml
+Converted description /// @description POST events
+
+Converting GML script: ${project_dir}\objects\Debug_Grid_Overlay\KeyPress_114.gml
+Converted description /// @description DEBUG_GRID_MODE_LIGHT_COLOR
+
+Converting GML script: ${project_dir}\objects\Debug_Grid_Overlay\KeyPress_113.gml
+Converted description /// @description DEBUG_GRID_MODE_ACCURACY
+
+Converting GML script: ${project_dir}\objects\Debug_Grid_Overlay\KeyPress_112.gml
+Converted description /// @description DEBUG_GRID_MODE_PATHFINDING
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Detected a Windows Steam App ID: The Steam App ID is now in one place - Main Options, please ensure it is correct
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'sound0_Angelic' - setting to default audio group
+Missing audiogroup for sound: 'sound1_Bass' - setting to default audio group
+Missing audiogroup for sound: 'sound2_Core' - setting to default audio group
+Missing audiogroup for sound: 'sound3_Demonic' - setting to default audio group
+Missing audiogroup for sound: 'sound4_Tension' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'background/background_add.gml'
+Added compatibility script 'background/background_delete.gml'
+Added compatibility script 'background/background_exists.gml'
+Added compatibility script 'background/background_get_texture.gml'
+Added compatibility script 'background/draw_background_part_ext.gml'
+Added compatibility script 'd3d/d3d_draw_block.gml'
+Added compatibility script 'd3d/d3d_draw_ellipsoid.gml'
+Added compatibility script 'd3d/d3d_end.gml'
+Added compatibility script 'd3d/d3d_primitive_begin.gml'
+Added compatibility script 'd3d/d3d_primitive_begin_texture.gml'
+Added compatibility script 'd3d/d3d_primitive_end.gml'
+Added compatibility script 'd3d/d3d_set_culling.gml'
+Added compatibility script 'd3d/d3d_set_hidden.gml'
+Added compatibility script 'd3d/d3d_set_projection_ext.gml'
+Added compatibility script 'd3d/d3d_set_projection_ortho.gml'
+Added compatibility script 'd3d/d3d_start.gml'
+Added compatibility script 'd3d/d3d_vertex.gml'
+Added compatibility script 'd3d/d3d_vertex_normal_texture.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'draw/draw_set_blend_mode_ext.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'texture/texture_set_interpolation.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'd3d/__init_d3d.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

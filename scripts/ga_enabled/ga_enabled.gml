@@ -1,0 +1,1 @@
+return instance_number(Analytics) > 0;

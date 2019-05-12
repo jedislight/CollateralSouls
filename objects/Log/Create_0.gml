@@ -1,0 +1,3 @@
+text = ""
+log_clear();
+

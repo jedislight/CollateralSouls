@@ -1,0 +1,4 @@
+name = "<CONDITION NAME DEFAULT>"
+description = "<CONDITION DESCRIPTION DEFAULT>"
+value = 0;
+
